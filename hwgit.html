@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-$">
+    <title>Cloud Computing Descriptions</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Qiuye Liu - IS 5315 Sec. #</h1>
+      <h2>a. What is GIT? Why do we need source code Version Control System?</h2>
+      <p>Git is the most commonly used version control system and is becoming the standard for version control. Git is a distributed version control system, meaning your local copy of code is a complete version control repository. These fully-functional local repositories make it easy to work offline or remotely. You commit your work locally, and then sync your copy of the repository with the copy on the server. This paradigm differs from centralized version control where clients must synchronize code with a server before creating new versions of code. There are many benefits of using a version control system for your project. A VCS allows everybody on the team work absolutely freely on any file at any time. This VCS will later allow you to merge all the changes into a common version. 
+<br>Source: https://www.git-tower.com/learn/git/ebook/en/desktop-gui/basics/why-use-version-control
+</p>
+      <h2>b. Describe following terms: 1) local repo 2) remote repo 3) how to use GIT in Team Project – multiple developers work on the same project at the same time</h2>
+      <p>The local repo is on your computer and has all the files and their commit history, enabling full diffs, history review, and committing when offline. This is one of the key features of a “distributed” version control system(DVCS), locally having the full repository history. Git refers to the centralized server where people retrieve files from it and commit to it as a “remote repository”. The remote repo is usually not on your machine and is the one shared by the team. The team “pushes” commits to it when ready to share with the team. While one of your remote repos could be another team member’s local repo, in a corporate environment at least one is typically a Git repo on a server anointed as the central/official repo.
+When multiple developers work on the same project using GIT, each developer creates a new branch to work on. They can write some code and commit regularly. When ready to merge the features back into the master branch, run git fetch which makes sure one person is up to date when merging changes back into master. Then one needs to rebase the changes into the master branch. This effectively condenses down all the commits one has made on his/her feature branch into one commit. Finally, switch to the master branch in preparation of merging changes. Push the changes to the remote master branch.
+
+<br>Source: https://www.intertech.com/Blog/introduction-to-git-concepts/
+<br>https://jameschambers.co/writing/git-team-workflow-cheatsheet/
+
+</p>
+      
+    </div>
+  </body>
+</html>
