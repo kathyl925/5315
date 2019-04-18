@@ -2,123 +2,92 @@
   "data": [
     {
       "name": "James Smith",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "position": "Accountant",
+      "department": "Accounting",
+      "salary": "$70,750"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "Michael Williamson",
+      "position": "Integration Specialist",
+      "department": "IT",
+      "salary": "$152,000"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Robert Cox",
+      "position": "Junior Technical Author",
+      "department": "IT",
+      "salary": "$96,000"
+    {
+      "name": "David Satou",
+      "position": "Junior Accountant",
+      "department": "Accounting",
+      "salary": "$52,700"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Mary Vance",
+      "position": "Pre-Sales Support",
+      "department": "Sales",
+      "salary": "$86,450"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "John Decker",
+      "position": "Regional Director",
+      "department": "Regional Office",
+      "salary": "$153,000"
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Henry Kelly",
+      "position": "Senior Javascript Developer",
+      "department": "IT",
+      "salary": "$103,060"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "George Kennedy",
+      "position": "Senior Marketing Designer",
+      "department": "Marketing",
+      "salary": "$113,500"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Sarah Hurst",
+      "position": "Javascript Developer",
+      "department": "IT",
+      "salary": "$125,500"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Ann Rios",
+      "position": "Human Resources Specialist",
+      "department": "HR",
+      "salary": "$87,500"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Jane Chandler",
+      "position": "Sales Assistant",
+      "department": "Sales",
+      "salary": "$97,500"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Thomas Davidson",
+      "position": "Integration Specialist",
+      "department": "IT",
+      "salary": "$157,900"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "Catherine Frost",
+      "position": "Software Engineer",
+      "department": "IT",
+      "salary": "$123,600"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Charles Gaines",
+      "position": "Marketing Manager",
+      "department": "Marketing",
+      "salary": "$150,560"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
-    },
-    {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Samual Flynn",
+      "position": "Sales Lead",
+      "department": "Sales",
+      "salary": "$342,000"
     }
   ]
 }
