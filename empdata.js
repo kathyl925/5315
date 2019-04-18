@@ -17,6 +17,7 @@
       "position": "Junior Technical Author",
       "department": "IT",
       "salary": "$96,000"
+    },
     {
       "name": "David Satou",
       "position": "Junior Accountant",
