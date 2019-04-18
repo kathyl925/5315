@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "name": "James Bond",
+      "name": "James Smith",
       "designation": "Accountant",
       "salary": "$170,750",
       "joining_date": "2011/07/25",
